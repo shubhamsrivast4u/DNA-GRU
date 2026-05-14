@@ -1,0 +1,43 @@
+{
+  "dataset": "Grass",
+  "total_clusters": 4982,
+  "dnn_failures": 33,
+  "dnn_failure_rate_pct": 0.6624,
+  "target_failure_rate_pct": 0.66,
+  "label_seq_len": 117,
+  "model_params": 3419578,
+  "context_radius": {
+    "pct50": {
+      "mean": 1.8235294117647058,
+      "median": 2.0,
+      "max": 2
+    },
+    "pct75": {
+      "mean": 4.352941176470588,
+      "median": 4.0,
+      "max": 5
+    },
+    "pct90": {
+      "mean": 10.470588235294118,
+      "median": 11.0,
+      "max": 12
+    },
+    "pct95": {
+      "mean": 16.41176470588235,
+      "median": 18.0,
+      "max": 22
+    },
+    "pct99": {
+      "mean": 35.11764705882353,
+      "median": 38.0,
+      "max": 57
+    }
+  },
+  "correlation_decay": {
+    "drop_to_90pct": 2,
+    "drop_to_75pct": 117,
+    "drop_to_50pct": 117,
+    "drop_to_25pct": 117,
+    "drop_to_10pct": 117
+  }
+}

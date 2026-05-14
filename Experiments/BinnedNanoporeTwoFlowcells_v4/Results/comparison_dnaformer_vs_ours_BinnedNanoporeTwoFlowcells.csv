@@ -1,0 +1,2 @@
+dataset,technology,N,dnn_failed,dnn_rate,dnaformer_conf_thr,dnaformer_cs_thr,dnaformer_sent_cpl,dnaformer_erasures,dnaformer_failed,dnaformer_rate,dnaformer_fixed,dnaformer_broke,ours_auto_p,ours_auto_cv,ours_auto_failed,ours_auto_rate,ours_oracle_p,ours_oracle_failed,ours_oracle_rate,target
+BinnedNanoporeTwoFlowcells,Nanopore,109976,3139,2.8542591110787807,0.7,4,109761,214,2082,1.8931403215246962,1837,673,5,1.92254989783187,1788,1.6258092674765405,5,1788,1.6258092674765405,1.65

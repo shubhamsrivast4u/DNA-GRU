@@ -1,0 +1,7 @@
+{
+  "drop_to_90pct": 2,
+  "drop_to_75pct": 2,
+  "drop_to_50pct": 127,
+  "drop_to_25pct": 128,
+  "drop_to_10pct": 128
+}

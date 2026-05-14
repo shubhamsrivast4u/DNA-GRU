@@ -1,0 +1,2 @@
+dataset_name,m_mean,m_std,m_cv_pct,m_range,m_iqr,auto_cpl_percentile
+BinnedNanoporeTwoFlowcells,0.9189720776772411,0.017667696740487213,1.92254989783187,0.4484189450740814,0.00036412477493286133,5

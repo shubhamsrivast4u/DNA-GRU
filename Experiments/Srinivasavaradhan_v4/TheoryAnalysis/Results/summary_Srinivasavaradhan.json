@@ -1,0 +1,43 @@
+{
+  "dataset": "Srinivasavaradhan",
+  "total_clusters": 9954,
+  "dnn_failures": 1444,
+  "dnn_failure_rate_pct": 14.5067,
+  "target_failure_rate_pct": 14.58,
+  "label_seq_len": 110,
+  "model_params": 3405643,
+  "context_radius": {
+    "pct50": {
+      "mean": 3.9473684210526314,
+      "median": 4.0,
+      "max": 5
+    },
+    "pct75": {
+      "mean": 13.736842105263158,
+      "median": 15.0,
+      "max": 23
+    },
+    "pct90": {
+      "mean": 33.8421052631579,
+      "median": 31.0,
+      "max": 59
+    },
+    "pct95": {
+      "mean": 48.473684210526315,
+      "median": 46.0,
+      "max": 75
+    },
+    "pct99": {
+      "mean": 70.52631578947368,
+      "median": 69.0,
+      "max": 95
+    }
+  },
+  "correlation_decay": {
+    "drop_to_90pct": 2,
+    "drop_to_75pct": 3,
+    "drop_to_50pct": 110,
+    "drop_to_25pct": 110,
+    "drop_to_10pct": 110
+  }
+}

@@ -1,0 +1,2 @@
+dataset,data_fraction,n_test,n_eval_runs,mean_failures,std_failures,mean_rate_pct,std_rate_pct,min_failures,max_failures,always_failed,sometimes_failed,best_model_path
+Srinivasavaradhan,0.2,9954,100,1981.0,10.197058399362044,19.901547116736992,0.10244181634882489,1956,2010,1748,1185,Experiments/Srinivasavaradhan_v4_data020/Models/best_model_Srinivasavaradhan_v4_data020.pth

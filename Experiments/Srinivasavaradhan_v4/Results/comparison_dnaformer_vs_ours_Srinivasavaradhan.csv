@@ -1,0 +1,2 @@
+dataset,technology,N,dnn_failed,dnn_rate,dnaformer_conf_thr,dnaformer_cs_thr,dnaformer_sent_cpl,dnaformer_erasures,dnaformer_failed,dnaformer_rate,dnaformer_fixed,dnaformer_broke,ours_auto_p,ours_auto_cv,ours_auto_failed,ours_auto_rate,ours_oracle_p,ours_oracle_failed,ours_oracle_rate,target
+Srinivasavaradhan,Nanopore,9954,1456,14.627285513361462,0.7,4,9196,757,1284,12.899336949969861,516,140,15,4.665555181302051,1157,11.623467952581876,15,1157,11.623467952581876,14.58
